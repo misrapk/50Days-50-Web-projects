@@ -17,3 +17,5 @@ Feel free to *Fork* and contribute in this repo.
 - [Project 8 - FormInputPage](https://github.com/misrapk/50Days-50-Web-projects/tree/main/08FormAnimatedInputPage)
 - [Project 9 - SoundBoard](https://github.com/misrapk/50Days-50-Web-projects/tree/main/09SoundBoard)
 - [Project 10 - Jokes App](https://github.com/misrapk/50Days-50-Web-projects/tree/main/10JokesApp)
+- [Project 11 - FAQ Collapse ](https://github.com/misrapk/50Days-50-Web-projects/tree/main/11FAQCollapse)
+- [Project 12 - Drink Water Tracker](https://github.com/misrapk/50Days-50-Web-projects/tree/main/12DrinkWater)
